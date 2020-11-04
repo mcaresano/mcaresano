@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[link a google]{https://google.com}
+
+
+(link a google)[https://google.com]
